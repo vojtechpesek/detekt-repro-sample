@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>ClassOrdering:Test.kt$Test$val s = 5 + 5 + 5</ID>
+    <ID>FinalNewline:Test.kt$com.example.myapplication.Test.kt</ID>
+    <ID>MaximumLineLength:Test.kt$Test$ </ID>
+    <ID>NoWildcardImports:ExampleUnitTest.kt$import org.junit.Assert.*</ID>
+    <ID>ParameterListWrapping:Test.kt$Test$(a: Int, b: Int)</ID>
+    <ID>PreviewPublic:MainActivity.kt$GreetingPreview</ID>
+    <ID>TrailingCommaOnDeclarationSite:Theme.kt$( darkTheme: Boolean = isSystemInDarkTheme(), // Dynamic color is available on Android 12+ dynamicColor: Boolean = true, content: @Composable () -&gt; Unit )</ID>
+  </CurrentIssues>
+</SmellBaseline>
